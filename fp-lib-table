@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name KKL_package_SOT_SMD)(type KiCad)(uri ${KIPRJMOD}/kicad_libraries/footprints/KKL_package_SOT_SMD.pretty)(options "")(descr ""))
+  (lib (name KKL_connectors_RJ)(type KiCad)(uri ${KIPRJMOD}/kicad_libraries/footprints/KKL_connectors_RJ.pretty)(options "")(descr ""))
 )

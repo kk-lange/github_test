@@ -72,4 +72,26 @@ Wire Wire Line
 	6350 3400 6200 3400
 Wire Wire Line
 	5750 4150 5750 4250
+$Comp
+L KKL_connectors:RJ45_8P8C J1
+U 1 1 602358FA
+P 3400 2100
+F 0 "J1" H 3457 2767 50  0000 C CNN
+F 1 "RJ45_8P8C" H 3457 2676 50  0000 C CNN
+F 2 "KKL_connectors_RJ:RJ45_femal_connector_8P8C_Right_angle" H 3400 2100 50  0001 C CNN
+F 3 "" H 3400 2100 50  0001 C CNN
+	1    3400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KKL_connectors:RJ45_8P8C J2
+U 1 1 602361CB
+P 7250 2100
+F 0 "J2" H 7307 2767 50  0000 C CNN
+F 1 "RJ45_8P8C" H 7307 2676 50  0000 C CNN
+F 2 "KKL_connectors_RJ:RJ45_femal_connector_8P8C_vertical" H 7250 2100 50  0001 C CNN
+F 3 "" H 7250 2100 50  0001 C CNN
+	1    7250 2100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
