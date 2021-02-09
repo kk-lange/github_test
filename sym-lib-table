@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name KKL_regulators)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/KKL_regulators.lib)(options "")(descr ""))
+)
